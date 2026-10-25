@@ -1,0 +1,6 @@
+/frontend/node_modules/
+/frontend/dist/
+/Backend/target/
+/Backend/.env
+/FRONTEND_GUIDE.local.md
+/BACKEND_GUIDE.local.md
